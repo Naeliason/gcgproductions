@@ -1,7 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+GulfCoastGirlProductions WebApp
+Website for Gabrielle's new videography company
 
 Things you may want to cover:
 
